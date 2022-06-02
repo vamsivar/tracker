@@ -42,8 +42,6 @@ h1 {
 }
 
 .total-income {
-	color: var(--grey);
-	font-size: 28px;
 	font-weight: 900;
 	background-color: #DFDFDF;
 	padding: 5px 25px;
@@ -86,7 +84,7 @@ h1 {
 .form-inner input {
 	font-size: 18px;
 	padding: 10px 15px;
-	background-color: #FFF;
+	background-color: rgb(192, 172, 247);
 }
 
 .form-inner input[type="text"] {
